@@ -41,7 +41,9 @@ final class StaticWordLibrary extends WordLibrary {
         "fly",
         "horse",
         "dog",
-        "cat"};
+        "cat",
+        "law",
+        "car"};
 
     private static final String[] SCRAMBLED_WORD_LIST = {
         "sehou",
@@ -49,7 +51,8 @@ final class StaticWordLibrary extends WordLibrary {
         "rsoeh",
         "ogd",
         "atc",
-    };
+        "wla",
+        "rac"};
 
     final static WordLibrary DEFAULT = new StaticWordLibrary();
 
